@@ -17,5 +17,5 @@ Este projeto é um sistema de menu bancário simples feito em Java, executado vi
 - Scanner (entrada de dados pelo terminal)
 - Estruturas de repetição e condição
 
-## 📂 Estrutura do projeto
+
 
